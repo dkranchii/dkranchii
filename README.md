@@ -1,16 +1,15 @@
-## Hi there 👋
+## Deepak Kumar
 
-<!--
-**dkranchii/dkranchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Programmer on Data Platform  specializing in large-scale,
+governance-first analytics systems, reliability engineering, and data
+infrastructure.
 
-Here are some ideas to get you started:
+My work focuses on:
+- Python & Java-based data platforms
+- Governance, compliance, and audit-ready analytics
+- Reliability and correctness in large-scale systems
+- Open-source contributions to widely used developer platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently work on data platform initiatives at Meta (Facebook) and
+actively contribute to open-source projects related to analytics,
+tooling, and platform reliability.
