@@ -10,6 +10,6 @@ My work focuses on:
 - Reliability and correctness in large-scale systems
 - Open-source contributions to widely used developer platforms
 
-I currently work on data platform initiatives at Meta (Facebook) and
+I currently work on data platform initiatives and
 actively contribute to open-source projects related to analytics,
 tooling, and platform reliability.
